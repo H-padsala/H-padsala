@@ -47,10 +47,9 @@
   <a href="https://github.com/H-padsala" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com" target="_blank"> <!-- Add your real LinkedIn URL -->
+  <a href="https://www.linkedin.com/in/harshil-padsala-9a5499284/" target="_blank"> <!-- Add your real LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  
   </a>
 </p>
