@@ -5,14 +5,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+%2F+Backend+Developer;Node.js+%7C+Express+%7C+JavaScript;Clean+Code+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a1dc6b5c12f9c9907c4515e88d.gif" alt="coder-gif" width="500" />
+</p>
+
 ---
 
 ### 🌟 About Me
 
-- 🎓 College Student & Developer focused on building practical, real-world projects
-- 🔭 I’m currently working on full stack projects using **Node.js + Express**
-- 🌱 I’m currently learning **REST APIs**, **MongoDB**, and **Oracle SQL**
-- ⚡ Fun fact: I enjoy debugging more than writing code 😅
+- 🎓 College Student & Developer focused on building practical, real-world projects  
+- 🔭 I’m currently working on full stack projects using **Node.js + Express**  
+- 🌱 I’m currently learning **REST APIs**, **MongoDB**, and **Oracle SQL**  
+- ⚡ Fun fact: I enjoy debugging more than writing code 😅  
 
 ---
 
@@ -29,6 +33,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
 
@@ -41,15 +46,22 @@
 
 ---
 
+### 🔥 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Harshil_Padsala?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 🔗 Connect with Me
 
 <p>
   <a href="https://github.com/H-padsala" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/harshil-padsala-9a5499284/" target="_blank"> <!-- Add your real LinkedIn URL -->
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   
+  <a href="https://www.linkedin.com/in/harshil-padsala-9a5499284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
